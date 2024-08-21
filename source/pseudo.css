@@ -1,0 +1,74 @@
+body {
+  margin: 0%;
+}
+
+a:link {
+  color: rgb(36, 224, 49);
+}
+
+a:visited {
+  color: rgb(68, 94, 56);
+}
+
+a:hover {
+  color: tomato;
+}
+
+button:active {
+  background-color: rgb(14, 20, 20);
+  color: rgb(255, 255, 255);
+}
+li {
+  font-size: 25px;
+}
+
+/* li:nth-child(1) {
+  background-color: yellow;
+} */
+/* This is pseudo class */
+/* li:nth-child() */
+
+li:nth-child(even) {
+  background-color: skyblue;
+}
+
+li:nth-child(odd) {
+  background-color: powderblue;
+}
+
+li:nth-child(3n) {
+  background-color: bisque;
+}
+
+/* This is pseudo element */
+/* li::after */
+
+p::first-letter {
+  font-size: 40px;
+  font-style: italic;
+}
+
+p::first-line {
+  color: salmon;
+}
+
+#list1 li {
+  background-color: aliceblue;
+}
+
+#list2 li {
+  background-color: azure;
+}
+
+#list1 li::before {
+  content: "✔️";
+}
+
+#CSS::after {
+  content: "👌";
+}
+
+p::selection {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,11 @@
+h1 {
+  text-shadow: 5px 5px 5px rgb(239, 75, 75);
+}
+
+h1:hover {
+  box-shadow: 5px 5px 5px black;
+}
+
+h4 {
+  font-size: 20px;
+}

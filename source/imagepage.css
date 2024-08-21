@@ -1,0 +1,22 @@
+body {
+  background-image: url("./centalpark.jpg");
+  /* background: linear-gradient(to right, skyblue, lightgreen); */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  background: linear-gradient(to right, skyblue, rgb(237, 248, 237));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 3rem;
+}
+p {
+  background: linear-gradient(to left, skyblue, rgb(249, 253, 249));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 1.3rem;
+  font-family: sans-serif;
+}

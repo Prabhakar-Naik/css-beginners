@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+img {
+  float: left;
+  margin: 50px;
+  padding: 1px;
+}
+
+p {
+  padding: 10px;
+  margin: 5px;
+  clear: left;
+  background: linear-gradient(#00ff73, #89d6ed, #f2634aa1);
+}

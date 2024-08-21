@@ -1,0 +1,26 @@
+p {
+  background-color: azure;
+}
+h1 {
+  color: yellowgreen;
+}
+body {
+  background-color: aqua;
+}
+
+#p1 {
+  background-color: tomato;
+}
+#p2 {
+  background-image: url("https://th.bing.com/th/id/OIP.PN_g6qtvt0Pv5BUBZUr3uwHaEO?w=284&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7");
+}
+
+#p3 {
+  background-color: beige;
+}
+
+#p4 {
+  background-color: wheat;
+  color: black;
+  font-size: 1rem;
+}
