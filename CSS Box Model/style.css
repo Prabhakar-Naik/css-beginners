@@ -1,0 +1,29 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+p{
+    margin: 0%;
+    text-align: center;
+}
+
+#first {
+    background-color: cadetblue;
+    padding: 20px;
+    border: 10px solid black;
+}
+
+#second{
+    background-color: aquamarine;
+    padding: 20px;
+    border: 10px solid brown;
+    border-width: 20px 10px;
+    margin-left: 250px;
+}
+
+#third{
+    background-color: yellow;
+    padding: 20px;
+    border: 10px solid salmon;
+}
