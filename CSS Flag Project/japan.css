@@ -1,0 +1,24 @@
+.flag {
+    height: 500px;
+    width: 800px;
+    background-color: white;
+    position: relative;
+    border: rgb(198, 195, 195) solid 2px;
+}
+
+.flag > div{
+    background-color: rgb(160, 5, 5);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+
+p {
+    text-align: center;
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+}
+
